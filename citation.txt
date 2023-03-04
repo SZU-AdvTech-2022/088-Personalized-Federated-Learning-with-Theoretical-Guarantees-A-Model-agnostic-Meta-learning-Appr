@@ -1,5 +1,6 @@
-@article{AlirezaFallah2020PersonalizedFL,  
-title={Personalized Federated Learning with Theoretical Guarantees: A Model-agnostic Meta-learning Approach},  
-author={Alireza Fallah and Aryan Mokhtari and Asuman Ozdaglar},  
-journal={Neural Information Processing Systems},  
-year={2020}}
+@article{REPO-089,
+    author = "Fallah, Alireza and Mokhtari, Aryan and Ozdaglar, Asuman",
+    journal = "Neural Information Processing Systems",
+    title = "{Personalized Federated Learning with Theoretical Guarantees: A Model-agnostic Meta-learning Approach}",
+    year = "2020"
+}
